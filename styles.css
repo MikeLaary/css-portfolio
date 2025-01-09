@@ -1,0 +1,74 @@
+.container {
+    display: grid;
+    height: 100vh;
+    gap: 1rem;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+}
+body {
+    margin: auto;
+    width: auto;
+    padding: 05;
+    font-family: "Playfair Display";
+    text-align: center;
+    background-color: #FEF9E1;
+}
+
+img{
+    position: relative;
+    top: 0%;
+    margin: 0%;
+}
+
+h1 {
+    color: #6D2323;
+    font-size: 4rem;
+    padding: 0%;
+    margin: 0%;
+    display: flex;
+    justify-content: center;
+    flex-basis: auto;
+    flex-wrap: wrap-reverse;
+    font-family: 'Lavishly Yours';
+    font-size: 4rem;
+}
+.container1{
+    background: url("./valentines-day-banner-with-abstract-hearts-design-vector.jpg");
+    background-size: 100rem 300px;
+    background-repeat: no-repeat;
+    height: 40vh;
+}
+h2 {
+    color: #6D2323;
+    font-size: 1.5rem;
+}
+p {
+    color: #A31D1D;
+    font-size: 1rem;
+}
+
+.container {
+    background-color: #E5D0AC;
+}
+
+.first {
+    background-color: #FEF9E1;
+}
+.middle {
+    background-color: #FEF9E1;
+}
+
+.last {
+    background-color: #FEF9E1;
+}
+
+.your {
+    background-color: #FEF9E1;
+}
+.love {
+    background-color: #FEF9E1;
+}
+
+.is {
+    background-color: #FEF9E1;
+}
