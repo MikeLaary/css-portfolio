@@ -4,6 +4,7 @@
     gap: 1rem;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr;
+    
 }
 body {
     margin: auto;
@@ -53,6 +54,7 @@ p {
 
 .first {
     background-color: #FEF9E1;
+
 }
 .middle {
     background-color: #FEF9E1;
